@@ -9,7 +9,7 @@ Alert System: When drowsiness is detected, the system triggers an alert to notif
 
 Easy Integration: The code is modular and can be easily integrated into existing systems or applications.
 
-Requirements
+Requirements:
 Python 3.x
 OpenCV
 Keras
