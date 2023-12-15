@@ -10,8 +10,8 @@ Alert System: When drowsiness is detected, the system triggers an alert to notif
 Easy Integration: The code is modular and can be easily integrated into existing systems or applications.
 
 Requirements:
--Python3
--OpenCV
--Keras
--Pygame
--Playsound (for alert sound)
+- Python3
+- OpenCV
+- Keras
+- Pygame
+- Playsound (for alert sound)
